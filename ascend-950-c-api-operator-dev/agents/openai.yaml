@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ascend 950 C API Operator Development"
+  short_description: "Develop and benchmark dav-3510 operators"
+  default_prompt: "Use $ascend-950-c-api-operator-dev to design, review, or benchmark a dav-3510 C API operator."

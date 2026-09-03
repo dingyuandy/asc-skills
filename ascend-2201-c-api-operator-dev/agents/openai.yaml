@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ascend 2201 C API Operator Development"
+  short_description: "Develop dav-2201 Vector, Cube, data paths, and FIXPIPE"
+  default_prompt: "Use $ascend-2201-c-api-operator-dev to develop or benchmark a dav-2201 C API operator across Vector, Cube, data movement, layouts, and FIXPIPE."
